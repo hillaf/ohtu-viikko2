@@ -94,7 +94,7 @@ public class VarastoTest {
 
         varasto.otaVarastosta(4);
 
-        assertEquals(3, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
