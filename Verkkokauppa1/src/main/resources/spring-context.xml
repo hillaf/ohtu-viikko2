@@ -12,5 +12,9 @@
     <context:annotation-config />
     <context:component-scan base-package="ohtu.verkkokauppa" />
     
-    
+                <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>cobertura-maven-plugin</artifactId>
+                <version>2.6</version>
+            </plugin>
 </beans>
