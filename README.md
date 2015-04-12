@@ -1,5 +1,5 @@
 
-# ohtu-viikko1 + viikon 4 github-tehtäviä
+# ohtun tehtäviä viikoilta 1-4
 
 
 Jenkins:
